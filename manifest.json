@@ -1,0 +1,18 @@
+{
+  "background_color": "#ffffff",
+  "description": "تطبيق موبايل للطقس",
+  "display": "standalone",
+  "lang": "en",
+  "name": "weather_app",
+  "short_name": "weather_app",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.mahmoud_abo_alwafa_12.weather_app",
+      "id": "com.mahmoud_abo_alwafa_12.weather_app"
+    }
+  ],
+  "prefer_related_applications": true
+}
